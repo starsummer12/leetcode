@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/fireyr/Desktop/leetcode/leetcode_c:c++/easy/two_sum/main.cpp" "/Users/fireyr/Desktop/leetcode/leetcode_c:c++/easy/two_sum/cmake-build-debug/CMakeFiles/two_sum.dir/main.cpp.o"
+  "/Users/fireyr/Desktop/leetcode/leetcode_c_c++/easy/two_sum/main.cpp" "/Users/fireyr/Desktop/leetcode/leetcode_c_c++/easy/two_sum/cmake-build-debug/CMakeFiles/two_sum.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

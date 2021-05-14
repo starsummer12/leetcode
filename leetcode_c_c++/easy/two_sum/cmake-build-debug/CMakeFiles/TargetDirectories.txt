@@ -1,3 +1,3 @@
-/Users/fireyr/Desktop/leetcode/leetcode_c:c++/easy/two_sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/fireyr/Desktop/leetcode/leetcode_c:c++/easy/two_sum/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/fireyr/Desktop/leetcode/leetcode_c:c++/easy/two_sum/cmake-build-debug/CMakeFiles/two_sum.dir
+/Users/fireyr/Desktop/leetcode/leetcode_c_c++/easy/two_sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fireyr/Desktop/leetcode/leetcode_c_c++/easy/two_sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fireyr/Desktop/leetcode/leetcode_c_c++/easy/two_sum/cmake-build-debug/CMakeFiles/two_sum.dir
