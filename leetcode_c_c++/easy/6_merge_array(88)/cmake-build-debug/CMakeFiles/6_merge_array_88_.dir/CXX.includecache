@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fireyr/Desktop/leetcode/leetcode_c_c++/easy/6_merge_array(88)/main.cpp
+bits/stdc++.h
+-
+
